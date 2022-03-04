@@ -3,6 +3,6 @@ Provided a dictory, this program will create a report on the file space for each
 
 ## Getting Started
 ```bash
-go run utility.go <directory>
+go run report.go <directory>
 ```
 `directory` is the directory you want to get the file space report for. It is optional and the default is the current directory.
